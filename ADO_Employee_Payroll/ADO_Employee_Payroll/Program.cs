@@ -10,6 +10,7 @@ namespace ADO_Employee_Payroll
             //Create oobject for Employee Repository
             EmployeeRepository employeeRepository = new EmployeeRepository();
             employeeRepository.GetSqlData();
+            employeeRepository.UpdateSalaryQuery();
         }
     }
 }
