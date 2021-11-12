@@ -12,3 +12,10 @@ C:\Users\Lenovo\Desktop\ADO payrollservice application\ADO_Employee_Payroll\ADO_
 C:\Users\Lenovo\Desktop\ADO payrollservice application\ADO_Employee_Payroll\ADO_Employee_Payroll\obj\Debug\netcoreapp3.1\ADO_Employee_Payroll.dll
 C:\Users\Lenovo\Desktop\ADO payrollservice application\ADO_Employee_Payroll\ADO_Employee_Payroll\obj\Debug\netcoreapp3.1\ADO_Employee_Payroll.pdb
 C:\Users\Lenovo\Desktop\ADO payrollservice application\ADO_Employee_Payroll\ADO_Employee_Payroll\obj\Debug\netcoreapp3.1\ADO_Employee_Payroll.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ADO payrollservice application\ADO_Employee_Payroll\ADO_Employee_Payroll\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\ADO payrollservice application\ADO_Employee_Payroll\ADO_Employee_Payroll\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\Desktop\ADO payrollservice application\ADO_Employee_Payroll\ADO_Employee_Payroll\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\Desktop\ADO payrollservice application\ADO_Employee_Payroll\ADO_Employee_Payroll\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\Desktop\ADO payrollservice application\ADO_Employee_Payroll\ADO_Employee_Payroll\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\ADO payrollservice application\ADO_Employee_Payroll\ADO_Employee_Payroll\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\ADO payrollservice application\ADO_Employee_Payroll\ADO_Employee_Payroll\obj\Debug\netcoreapp3.1\ADO_Employee_Payroll.csproj.CopyComplete
