@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\ADO payrollservice application\\ADO_Employee_Payroll\\ADO_Employee_Payroll\\ADO_Employee_Payroll.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\New Ado payroll\\ADOPayrollService\\ADO_Employee_Payroll\\ADO_Employee_Payroll\\ADO_Employee_Payroll.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\ADO payrollservice application\\ADO_Employee_Payroll\\ADO_Employee_Payroll\\ADO_Employee_Payroll.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\New Ado payroll\\ADOPayrollService\\ADO_Employee_Payroll\\ADO_Employee_Payroll\\ADO_Employee_Payroll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\ADO payrollservice application\\ADO_Employee_Payroll\\ADO_Employee_Payroll\\ADO_Employee_Payroll.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\New Ado payroll\\ADOPayrollService\\ADO_Employee_Payroll\\ADO_Employee_Payroll\\ADO_Employee_Payroll.csproj",
         "projectName": "ADO_Employee_Payroll",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\ADO payrollservice application\\ADO_Employee_Payroll\\ADO_Employee_Payroll\\ADO_Employee_Payroll.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\New Ado payroll\\ADOPayrollService\\ADO_Employee_Payroll\\ADO_Employee_Payroll\\ADO_Employee_Payroll.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\ADO payrollservice application\\ADO_Employee_Payroll\\ADO_Employee_Payroll\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\New Ado payroll\\ADOPayrollService\\ADO_Employee_Payroll\\ADO_Employee_Payroll\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
